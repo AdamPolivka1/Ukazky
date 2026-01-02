@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "adam",
+    "Age": 18,
+    "Email": "adam@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 900",
+    "Hobby": "plavani"
+  },
+  {
+    "Name": "petr",
+    "Age": 15,
+    "Email": "petr@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 901",
+    "Hobby": "beh"
+  },
+  {
+    "Name": "helena",
+    "Age": 21,
+    "Email": "helena@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 902",
+    "Hobby": "cyklistika"
+  },
+  {
+    "Name": "dana",
+    "Age": 25,
+    "Email": "dana@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 903",
+    "Hobby": "cyklistika"
+  },
+  {
+    "Name": "daniela",
+    "Age": 26,
+    "Email": "dana@mymail.com",
+    "City": "Praha",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 904",
+    "Hobby": "zpev"
+  },
+  {
+    "Name": "jan",
+    "Age": 27,
+    "Email": "jan@mymail.com",
+    "City": "Brno",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 905",
+    "Hobby": "turistika"
+  },
+  {
+    "Name": "tomas",
+    "Age": 28,
+    "Email": "tomas@mymail.com",
+    "City": "Brno",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 906",
+    "Hobby": "DIY"
+  },
+  {
+    "Name": "tobias",
+    "Age": 29,
+    "Email": "tobias@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 907",
+    "Hobby": "tanec"
+  },
+  {
+    "Name": "daniel",
+    "Age": 30,
+    "Email": "daniel@mymail.com",
+    "City": "Praha",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 908",
+    "Hobby": "posilovani"
+  },
+  {
+    "Name": "vladimir",
+    "Age": 31,
+    "Email": "vladimir@mymail.com",
+    "City": "Jihlava",
+    "Country": "CZ",
+    "PhoneNumber": "420 777 888 910",
+    "Hobby": "hudba"
+  }
+]

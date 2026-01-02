@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <Name>adam</Name>
+    <Age>18</Age>
+    <Email>adam@mymail.com</Email>
+    <City>Jihlava</City>
+    <Country>CZ</Country>
+    <PhoneNumber>420 777 888 900</PhoneNumber>
+    <Hobby>plavani</Hobby>
+</Person>
